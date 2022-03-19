@@ -6,3 +6,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deEdenKim&theme=default&show_icons=true)
