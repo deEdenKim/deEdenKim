@@ -1,3 +1,4 @@
+<h1 align="center"><b>김 서 현</b></h1>
 <h3 align="center"><b>배우는 중</b></h3>
 </br>
 <p align="center">
