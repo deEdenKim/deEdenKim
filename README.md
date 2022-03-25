@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=서현%20STUDY&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=EDEN%20TOWN&fontSize=90)
 
-
-<h3 align="center"><b>배우는 중</b></h3>
+<h3 align="center"><b>STUDYING</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
@@ -11,3 +10,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deEdenKim&theme=default&show_icons=true)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdeEdenKim&count_bg=%2343D165&title_bg=%23000000&icon=furrynetwork.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
