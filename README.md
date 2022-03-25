@@ -1,8 +1,8 @@
 <h1 align="center"><b>김 서 현</b></h1>
 
-<a id="rect">
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 <h3 align="center"><b>배우는 중</b></h3>
 </br>
