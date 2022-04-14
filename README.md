@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=EDEN%20TOWN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=EDEN%20----&fontSize=90)
 <h2></h2>
 <h3 align="center"><b>STUDYING</b></h3>
 </br>
