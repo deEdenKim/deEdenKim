@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=--EDEN--&fontSize=90)
-<h2></h2>
+<h2> </h2>
 <h3 align="center"><b>STUDYING</b></h3>
 </br>
 <p align="center">
