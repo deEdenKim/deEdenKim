@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=--EDEN--&fontSize=90)
 <h2> </h2>
-<h3 align="center"><b>STUDYING</b></h3>
+<h3 align="center"><b>STXDYING</b></h3>
 </br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
