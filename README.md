@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=EDEN&fontSize=90)
-<h2> 123456789  0 </h2>
+<h2> JJ </h2>
 <h3 align="center"><b>HomeComing</b></h3>
 </br>
 
