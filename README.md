@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=EDEN&fontSize=90)
-<h2> </h2>
-<h3 align="center"><b>on my</b></h3>
+<h2> *-* </h2>
+<h3 align="center"><b>*-*</b></h3>
 </br>
 
 <p align="center">
