@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=EDEN&fontSize=90)
-<h2> 요새 맨날 코딩하긴 하는디 그냥 몇줄 고치는게 끝. 그리고 회사꺼라 못 올림. 진짜진짜 </h2>
+<h2> ㅁ .--. ㅁ </h2>
 <h3 align="center"><b>*-*</b></h3>
 </br>
 
